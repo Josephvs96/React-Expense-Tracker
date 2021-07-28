@@ -1,0 +1,21 @@
+.expences-container {
+	padding: 1rem;
+	background-color: #405f8f;
+	margin: 2rem auto;
+	width: 50rem;
+	max-width: 95%;
+}
+
+.info {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+	background-color: dodgerblue;
+	color: whitesmoke;
+	text-align: center;
+	border-radius: 10px;
+	max-width: 30rem;
+	margin: 2rem auto;
+	padding: 0.1rem;
+}
